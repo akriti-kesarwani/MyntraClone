@@ -1,5 +1,5 @@
 # MyntraClone
-Figma link:  https://www.figma.com/design/CqPVgkBRaIuIf73l7MQILo/myntraclone?node-id=1-2&t=ONwnCgEDXMCYNzpH-1
+Figma link:  [https://www.figma.com/design/CqPVgkBRaIuIf73l7MQILo/myntraclone?node-id=0-1&p=f&t=lB1ftCWP8jqM2tDA-0]
 Demo day project on Myntra using react js Myntra Clone of Myntra.com Website
 
 Welcome to Myntra
