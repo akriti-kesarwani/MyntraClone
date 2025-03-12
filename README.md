@@ -23,6 +23,18 @@ Home Page: Header & Carousel
 
 - ## Admin Page
 - 
+<img width="1470" alt="Screenshot 2025-03-12 at 8 40 13 PM" src="https://github.com/user-attachments/assets/a8139cd4-561d-407b-a42c-17cdbbc56322" />
+
+  Collaborators (Team members):-
+Piyush Singh
+
+Yashika Thakur
+
+Muhammed Faheem
+
+Akriti Kesarwani
+
+Thank You
 
 
 
